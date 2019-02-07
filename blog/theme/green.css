@@ -1,0 +1,75 @@
+.headersection {background: #267026 none repeat scroll 0 0;}
+.icon a {background: #62AC62 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {
+	border: 1px solid #065006;
+	background: #57A157;
+}
+.searchbtn input[type="submit"] {
+	border: 1px solid #57A157;
+}
+input[type="submit"] {
+	background: #003C00 none repeat scroll 0 0;
+}
+.searchbtn input[type="submit"]:hover{
+	background: #57A157 none repeat scroll 0 0;
+	border: 1px solid #065006;
+}
+.navsection {background: none repeat scroll 0 0 #67B167;}
+
+.navsection ul li {
+	border-left: 1px solid #AFF5AF;
+	border-right: 1px solid #132D13;
+}
+.navsection ul li a:hover, #active {
+	background: #FFFFEF;
+	color: #333;
+}
+.contentsection {
+	background: #DFFFDF none repeat scroll 0 0;
+	border: 1px solid #004300;
+}
+.maincontent {
+	background: #F6FFF5 none repeat scroll 0 0;
+	border: 1px solid #B1CD2D;
+}
+.samepost h2 a {
+	color: #307800;
+}
+.samepost h2, .about h2 {
+	border-bottom: 2px solid #89D159;
+	color: #307800;
+}
+.samepost img {
+	background: #fff none repeat scroll 0 0;
+	border: 1px solid #67B167;
+}
+.readmore a {
+	background: #F4FFF4 none repeat scroll 0 0;
+	border: 1px solid #267026;
+	color: #67B167;
+}
+.sidebar {
+	background: #F6FFF5 none repeat scroll 0 0;
+	border: 1px solid #B1CD2D;
+}
+.samesidebar h2 {
+	background: #67B167 none repeat scroll 0 0;
+	border-bottom: 2px solid #267026;
+}
+.samesidebar3 h2 {
+	background: #67B167 none repeat scroll 0 0;
+	border-bottom: 2px solid #267026;
+}
+.samesidebar ul li {border-bottom: 1px dashed #AAAAAA;}
+.samesidebar ul li a {color: #10907A;}
+.samesidebar ul li a:hover{color:#28516B;}
+.samesidebar3 ul li {
+	background: #5EAE87;
+	border: 1px solid #679161;
+}
+.pagination a {
+	border: 1px solid #67B167;
+	background: #629F74;
+}
+.footersection {background: #267026;}
+.footermenu ul li a {color: #67B167;}
